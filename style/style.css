@@ -1,0 +1,40 @@
+body{
+    font-size: large;
+    text-align: center;
+    margin: 0;
+    background-color: gray;
+}
+
+header{
+    background-color: black;
+    color: white;
+    display: flex;
+    padding: 2%;
+}
+
+.logo{
+    width: 5%;
+    margin: 0 0 0 13%;
+}
+
+.menu{
+    margin-left: 10%;
+    margin-top: 3%;
+}
+
+main{
+    color: black;
+    margin: 2%;
+}
+
+footer{
+    background-color: black;
+    color: white;
+    padding: 2%;
+}
+
+a{
+    text-decoration: none;
+    color: white;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
